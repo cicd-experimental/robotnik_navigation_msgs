@@ -11,3 +11,4 @@ string[] recovery_behaviors
 geometry_msgs/Pose[] goal_tolerance
 string navigation_type
 string goal_target_type
+float32 max_vel

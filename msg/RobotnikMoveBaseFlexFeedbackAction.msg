@@ -27,6 +27,8 @@ string message
 float32 dist_to_goal
 float32 angle_to_goal
 geometry_msgs/PoseStamped final_pose
+geometry_msgs/PoseStamped current_pose_executing
+geometry_msgs/Pose2D dist_current_target
 
 # Index of the current goal executing
 uint32 current_goal
