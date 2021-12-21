@@ -29,6 +29,7 @@ add_action_files(
   FILES
   Dock.action
   Move.action
+  BarcodeDock.action
   RobotnikMoveBaseFlex.action
 )
 
