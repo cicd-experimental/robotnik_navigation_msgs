@@ -1,6 +1,6 @@
 # goal
-string barcode_id
-float64 position
+string barcode_id # front, rear
+uint32 position # In mm
 ---
 # result
 bool success
